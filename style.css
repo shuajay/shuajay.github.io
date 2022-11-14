@@ -1,0 +1,152 @@
+.nav-bg{
+    background-color: crimson;
+}
+
+.personal-link {
+    color: #053f96;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.input-size{
+    width: 80%;
+}
+
+#professional{
+    text-align: justify;
+}
+#professional img{
+    width: 90%;
+    margin-top: 15%;
+}
+#professional h2{
+    font-family: cursive;
+    margin-top: 15%;
+    margin-left: 10%;
+    color: crimson;
+}
+#professional h4{
+    font-family: cursive;
+    margin-top: 5%;
+    margin-left: 10%;
+    color: crimson;
+}
+#professional p{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+#professional button{
+    margin-top: 5%;
+    margin-left: 10.5%;
+    color: crimson;
+    border-color: crimson;
+}
+#professional button:hover{
+    color: whitesmoke;
+    background-color: crimson;
+    border-color: crimson;
+}
+
+#personal{
+    text-align: justify;
+}
+#personal h4{
+    font-family: cursive;
+    color: crimson;
+    margin-top: 3%;
+}
+#personal a{
+    color: #053f96;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+#education{
+    text-align: justify;
+}
+#education h4{
+    font-family: cursive;
+    margin-top: 1%;
+    margin-left: 0%;
+    color: crimson;
+}
+#education h5{
+    color: rgb(83, 25, 25);
+}
+#education h6{
+    color: rgb(83, 25, 25);
+}
+
+#experience{
+    text-align: justify;
+}
+#experience h4{
+    color: crimson;
+    font-family: cursive;
+    margin-top: 1%;
+}
+#experience h5{
+    color: rgb(83, 25, 25);
+}
+
+#skills{
+    text-align: justify;
+}
+#skills h4{
+    color: crimson;
+    font-family: cursive;
+}
+
+#hobbies{
+    text-align: justify;
+}
+#hobbies h4{
+    font-family: cursive;
+    color: crimson;
+}
+
+#references{
+    text-align: justify;
+}
+#references h4{
+    font-family: cursive;
+    color: crimson;
+}
+#references h5{
+    color: rgb(83, 25, 25);
+}
+
+#contact{
+    text-align: justify;
+}
+#contact h4{
+    color: crimson;
+    font-family: cursive;
+}
+#contact h5{
+    margin-top: 25%;
+    margin-left: 0%;
+    color: rgb(83, 25, 25);
+    font-family: cursive;
+}
+#contact button{
+    margin-top: 5%;
+    color: crimson;
+    border-color: crimson;
+    font-family: cursive;
+}
+#contact button:hover{
+    color: white;
+    background-color: crimson;
+    border-color: crimson;
+}
+form label{
+    font-family: cursive;
+}
+
+footer{
+    margin-top: 6%;
+    margin-left: 0%;
+    color: dimgray;
+    text-align: center;
+}
